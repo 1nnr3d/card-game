@@ -1,6 +1,6 @@
 # VueJS Card Game
 
-# pogaca-nerede-kart-oyunu
+# kedi-nerede-kart-oyunu
 
 > A Vue.js project
 
