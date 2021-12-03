@@ -1,5 +1,7 @@
 # VueJS Card Game
 
+![Gif](Animation.gif)
+
 # kedi-nerede-kart-oyunu
 
 > A Vue.js project
