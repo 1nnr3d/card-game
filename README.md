@@ -1,4 +1,4 @@
-# VueJS Card Game
+# Card Game - Developed using Vue and JavaScript
 
 ![Gif](Animation.gif)
 
